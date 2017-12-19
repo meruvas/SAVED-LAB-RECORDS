@@ -1,0 +1,2 @@
+pH	3.95	--	3.0 – 5.0	Complies 
+Assay & Sterility	Other tests not carried out due to lack of facilities.
